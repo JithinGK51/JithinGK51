@@ -130,46 +130,134 @@ I'm a passionate developer who loves creating innovative solutions and exploring
 - 🎖️ **Project Builder** - Creating real-world applications with modern technologies
 - 🏆 **Tech Explorer** - Always eager to learn new programming languages and frameworks
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" alt="Divider" />
+</div>
+
 ## 📈 Contribution Graph
 
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=My+GitHub+Activity+%F0%9F%93%88;Building+Projects+Every+Day+%F0%9F%9A%80;Learning+and+Growing+%F0%9F%93%9A" alt="Activity" />
+</div>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JithinGK51&theme=tokyonight&hide_border=true)
+<div align="center">
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JithinGK51&theme=radical&hide_border=true&stroke=00D9FF&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakNum=00D9FF&sideNums=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=00D9FF)
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" alt="Divider" />
 </div>
 
 ## 🚀 My Projects & Learning
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=My+Projects+and+Learning+Journey+%F0%9F%9A%80;Building+Amazing+Applications+%F0%9F%92%BB" alt="Projects" />
+</div>
+
+<div align="center">
+
 ### 🌐 Web Development Projects
 **Building websites and web applications**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
 - ⭐ **Features:** Responsive design, interactive elements, clean UI
 - 🛠️ **Tech Stack:** HTML5, CSS3, JavaScript, PHP, MySQL
 - 🔗 **View:** [My GitHub Projects](https://github.com/JithinGK51)
 
+</div>
+
+<div align="center">
+
 ### 📱 Mobile App Development
 **Creating Android applications and mobile solutions**
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
 - ⭐ **Features:** Native Android apps, user-friendly interfaces, mobile optimization
 - 🛠️ **Tech Stack:** Java, Kotlin, Android Studio, Flutter
 - 🔗 **View:** [My Mobile Apps](https://github.com/JithinGK51)
 
+</div>
+
+<div align="center">
+
 ### 🐍 Python Learning Projects
 **Exploring Python programming and automation**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+
 - ⭐ **Features:** Scripts, data processing, learning new concepts
 - 🛠️ **Tech Stack:** Python, basic libraries, file handling
 - 🔗 **View:** [My Python Projects](https://github.com/JithinGK51)
 
+</div>
+
+<div align="center">
+
 ### 🎨 Frontend Development
 **Creating interactive and responsive web interfaces**
+
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+
 - ⭐ **Features:** Modern CSS, JavaScript interactions, Bootstrap styling
 - 🛠️ **Tech Stack:** HTML, CSS, JavaScript, jQuery, Bootstrap
 - 🔗 **View:** [My Frontend Work](https://github.com/JithinGK51)
 
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" alt="Divider" />
+</div>
+
 ## 📝 Learning & Resources
 
-- [Web Development Learning Path](https://github.com/JithinGK51) - My journey in web development
-- [Mobile App Development](https://github.com/JithinGK51) - Learning Android and Flutter
-- [HTML & CSS Projects](https://github.com/JithinGK51) - Building responsive websites
-- [JavaScript Learning](https://github.com/JithinGK51) - Exploring interactive web features
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=My+Learning+Resources+%F0%9F%93%9A;Always+Learning+New+Things+%F0%9F%9A%80" alt="Learning" />
+</div>
+
+<div align="center">
+
+### 🌐 Web Development Learning
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/JithinGK51)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/JithinGK51)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/JithinGK51)
+
+**My journey in web development** - Building responsive websites and interactive applications
+
+</div>
+
+<div align="center">
+
+### 📱 Mobile Development Learning
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/JithinGK51)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/JithinGK51)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/JithinGK51)
+
+**Learning Android and Flutter** - Creating mobile applications for Android devices
+
+</div>
+
+<div align="center">
+
+### 🐍 Programming Languages
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/JithinGK51)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/JithinGK51)
+[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/JithinGK51)
+
+**Exploring programming concepts** - Learning new languages and frameworks
+
+</div>
 
 ## 🤝 Connect With Me
 
