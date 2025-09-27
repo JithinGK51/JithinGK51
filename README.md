@@ -7,7 +7,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=JithinGK51&color=00D9FF&style=for-the-badge&label=Profile+Views)
 ![GitHub followers](https://img.shields.io/github/followers/JithinGK51?color=00D9FF&style=for-the-badge&label=Followers)
 ![GitHub stars](https://img.shields.io/github/stars/JithinGK51?color=FFD700&style=for-the-badge&label=Stars)
-![GitHub forks](https://img.shields.io/github/forks/JithinGK51?color=00FF88&style=for-the-badge&label=Forks)
+![GitHub forks](https://img.shields.io/github/forks/JithinGK51/JithinGK51?color=00FF88&style=for-the-badge&label=Forks)
 
 </div>
 
