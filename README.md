@@ -107,18 +107,18 @@ I'm a passionate developer who loves creating innovative solutions and exploring
 
 ## 🎯 Current Focus
 
-- 🔭 **Currently working on:** Building scalable web applications
-- 🌱 **Currently learning:** Advanced React patterns and microservices architecture
-- 👯 **Looking to collaborate on:** Open source projects and innovative web solutions
-- 💬 **Ask me about:** Web development, Python, JavaScript, and software architecture
-- ⚡ **Fun fact:** I believe in writing clean, maintainable code that tells a story
+- 🔭 **Currently working on:** Web development projects with HTML, CSS, JavaScript, and PHP
+- 🌱 **Currently learning:** Advanced JavaScript, Node.js, and database management
+- 👯 **Looking to collaborate on:** Web applications and learning new technologies
+- 💬 **Ask me about:** HTML, CSS, JavaScript, PHP, Python, MySQL, and web development
+- ⚡ **Fun fact:** I love creating interactive websites and learning new programming concepts
 
-## 🏆 Achievements & Certifications
+## 🏆 Achievements & Learning Journey
 
-- 🥇 **Certified Full-Stack Developer**
-- 🏅 **AWS Cloud Practitioner**
-- 🎖️ **Google Cloud Platform Fundamentals**
-- 🏆 **Hackathon Winner** - Tech Innovation Challenge 2024
+- 🥇 **Web Development Enthusiast** - Passionate about creating amazing websites
+- 🏅 **Self-Taught Programmer** - Continuously learning and improving my skills
+- 🎖️ **Project Builder** - Creating real-world applications with modern technologies
+- 🏆 **Tech Explorer** - Always eager to learn new programming languages and frameworks
 
 ## 📈 Contribution Graph
 
@@ -128,31 +128,31 @@ I'm a passionate developer who loves creating innovative solutions and exploring
 
 </div>
 
-## 🚀 Featured Projects
+## 🚀 My Projects & Learning
 
 ### 🌐 Web Development Projects
-**Full-stack web applications built with modern technologies**
-- ⭐ **Features:** Responsive design, dynamic content, user authentication
+**Building websites and web applications**
+- ⭐ **Features:** Responsive design, interactive elements, clean UI
 - 🛠️ **Tech Stack:** HTML5, CSS3, JavaScript, PHP, MySQL
-- 🔗 **Live Demo:** [View Projects](https://github.com/JithinGK51)
+- 🔗 **View:** [My GitHub Projects](https://github.com/JithinGK51)
 
-### 🐍 Python Applications
-**Backend services and automation scripts**
-- ⭐ **Features:** Data processing, API development, automation
-- 🛠️ **Tech Stack:** Python, Node.js, Express.js, MongoDB
-- 🔗 **Live Demo:** [View Projects](https://github.com/JithinGK51)
+### 🐍 Python Learning Projects
+**Exploring Python programming and automation**
+- ⭐ **Features:** Scripts, data processing, learning new concepts
+- 🛠️ **Tech Stack:** Python, basic libraries, file handling
+- 🔗 **View:** [My Python Projects](https://github.com/JithinGK51)
 
-### 📱 Interactive Web Apps
-**Dynamic web applications with real-time features**
-- ⭐ **Features:** AJAX integration, REST APIs, responsive UI
-- 🛠️ **Tech Stack:** JavaScript, jQuery, Bootstrap, JSON
-- 🔗 **Live Demo:** [View Projects](https://github.com/JithinGK51)
+### 📱 Frontend Development
+**Creating interactive and responsive web interfaces**
+- ⭐ **Features:** Modern CSS, JavaScript interactions, Bootstrap styling
+- 🛠️ **Tech Stack:** HTML, CSS, JavaScript, jQuery, Bootstrap
+- 🔗 **View:** [My Frontend Work](https://github.com/JithinGK51)
 
-## 📝 Latest Blog Posts
+## 📝 Learning & Resources
 
-- [Building Scalable Web Applications: Best Practices](https://github.com/JithinGK51)
-- [The Future of Web Development: Trends to Watch](https://github.com/JithinGK51)
-- [Clean Code Principles Every Developer Should Know](https://github.com/JithinGK51)
+- [Web Development Learning Path](https://github.com/JithinGK51) - My journey in web development
+- [HTML & CSS Projects](https://github.com/JithinGK51) - Building responsive websites
+- [JavaScript Learning](https://github.com/JithinGK51) - Exploring interactive web features
 
 ## 🤝 Connect With Me
 
