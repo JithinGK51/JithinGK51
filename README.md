@@ -20,35 +20,34 @@ I'm a passionate developer who loves creating innovative solutions and exploring
 
 ## 🛠️ Tech Stack & Skills
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+### Frontend Technologies
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
-### Backend Development
+### Backend Technologies
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 
 ### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Tools & Technologies
+### Development Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+
+### Additional Skills
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=rest&logoColor=white)
+![AJAX](https://img.shields.io/badge/AJAX-000000?style=for-the-badge&logo=ajax&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 📊 GitHub Statistics
@@ -88,17 +87,23 @@ I'm a passionate developer who loves creating innovative solutions and exploring
 
 ## 🚀 Featured Projects
 
-### 🔥 Project Alpha
-**A revolutionary web application built with React and Node.js**
-- ⭐ **Features:** Real-time collaboration, advanced analytics, responsive design
-- 🛠️ **Tech Stack:** React, Node.js, MongoDB, Socket.io
-- 🔗 **Live Demo:** [View Project](https://github.com/JithinGK51)
+### 🌐 Web Development Projects
+**Full-stack web applications built with modern technologies**
+- ⭐ **Features:** Responsive design, dynamic content, user authentication
+- 🛠️ **Tech Stack:** HTML5, CSS3, JavaScript, PHP, MySQL
+- 🔗 **Live Demo:** [View Projects](https://github.com/JithinGK51)
 
-### 🎨 Project Beta
-**An innovative mobile-first web platform**
-- ⭐ **Features:** Progressive Web App, offline support, push notifications
-- 🛠️ **Tech Stack:** Vue.js, Express.js, PostgreSQL, Redis
-- 🔗 **Live Demo:** [View Project](https://github.com/JithinGK51)
+### 🐍 Python Applications
+**Backend services and automation scripts**
+- ⭐ **Features:** Data processing, API development, automation
+- 🛠️ **Tech Stack:** Python, Node.js, Express.js, MongoDB
+- 🔗 **Live Demo:** [View Projects](https://github.com/JithinGK51)
+
+### 📱 Interactive Web Apps
+**Dynamic web applications with real-time features**
+- ⭐ **Features:** AJAX integration, REST APIs, responsive UI
+- 🛠️ **Tech Stack:** JavaScript, jQuery, Bootstrap, JSON
+- 🔗 **Live Demo:** [View Projects](https://github.com/JithinGK51)
 
 ## 📝 Latest Blog Posts
 
