@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJithinGK51%2FJithinGK51&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
+![Profile Views](https://komarev.com/ghpvc/?username=JithinGK51&color=blueviolet&style=for-the-badge&label=Profile+Views)
 ![GitHub followers](https://img.shields.io/github/followers/JithinGK51?style=for-the-badge&color=blue)
 ![GitHub stars](https://img.shields.io/github/stars/JithinGK51?style=for-the-badge&color=yellow)
 
