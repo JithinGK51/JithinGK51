@@ -75,6 +75,16 @@ I'm a passionate developer who loves creating innovative solutions and exploring
 
 </div>
 
+### 📱 Mobile Development
+<div align="center">
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=000000)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&labelColor=000000)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=000000)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=000000)
+
+</div>
+
 ### 🚀 Additional Skills
 <div align="center">
 
@@ -107,11 +117,11 @@ I'm a passionate developer who loves creating innovative solutions and exploring
 
 ## 🎯 Current Focus
 
-- 🔭 **Currently working on:** Web development projects with HTML, CSS, JavaScript, and PHP
-- 🌱 **Currently learning:** Advanced JavaScript, Node.js, and database management
-- 👯 **Looking to collaborate on:** Web applications and learning new technologies
-- 💬 **Ask me about:** HTML, CSS, JavaScript, PHP, Python, MySQL, and web development
-- ⚡ **Fun fact:** I love creating interactive websites and learning new programming concepts
+- 🔭 **Currently working on:** Web development and mobile app projects
+- 🌱 **Currently learning:** Advanced JavaScript, Node.js, Android development, and Flutter
+- 👯 **Looking to collaborate on:** Web applications, mobile apps, and learning new technologies
+- 💬 **Ask me about:** HTML, CSS, JavaScript, PHP, Python, Android, Java, and mobile development
+- ⚡ **Fun fact:** I love creating both websites and mobile applications
 
 ## 🏆 Achievements & Learning Journey
 
@@ -136,13 +146,19 @@ I'm a passionate developer who loves creating innovative solutions and exploring
 - 🛠️ **Tech Stack:** HTML5, CSS3, JavaScript, PHP, MySQL
 - 🔗 **View:** [My GitHub Projects](https://github.com/JithinGK51)
 
+### 📱 Mobile App Development
+**Creating Android applications and mobile solutions**
+- ⭐ **Features:** Native Android apps, user-friendly interfaces, mobile optimization
+- 🛠️ **Tech Stack:** Java, Kotlin, Android Studio, Flutter
+- 🔗 **View:** [My Mobile Apps](https://github.com/JithinGK51)
+
 ### 🐍 Python Learning Projects
 **Exploring Python programming and automation**
 - ⭐ **Features:** Scripts, data processing, learning new concepts
 - 🛠️ **Tech Stack:** Python, basic libraries, file handling
 - 🔗 **View:** [My Python Projects](https://github.com/JithinGK51)
 
-### 📱 Frontend Development
+### 🎨 Frontend Development
 **Creating interactive and responsive web interfaces**
 - ⭐ **Features:** Modern CSS, JavaScript interactions, Bootstrap styling
 - 🛠️ **Tech Stack:** HTML, CSS, JavaScript, jQuery, Bootstrap
@@ -151,6 +167,7 @@ I'm a passionate developer who loves creating innovative solutions and exploring
 ## 📝 Learning & Resources
 
 - [Web Development Learning Path](https://github.com/JithinGK51) - My journey in web development
+- [Mobile App Development](https://github.com/JithinGK51) - Learning Android and Flutter
 - [HTML & CSS Projects](https://github.com/JithinGK51) - Building responsive websites
 - [JavaScript Learning](https://github.com/JithinGK51) - Exploring interactive web features
 
