@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Jithin+GK!+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Passionate+about+Web+Development+%F0%9F%92%BB;Always+learning+new+technologies+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Jithin+GK!+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Web+%26+Mobile+App+Developer+%F0%9F%92%BB;Passionate+about+Coding+%F0%9F%93%9A;Building+Amazing+Projects+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome+to+my+Profile!&fontSize=40&fontAlignY=40&animation=twinkling&fontColor=ffffff&desc=Full+Stack+Developer&descAlignY=65&descAlign=center" alt="Header" />
 </div>
 
 <div align="center">
@@ -12,37 +16,40 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Welcome%20to%20my%20Profile!&fontSize=30&fontAlignY=40&animation=twinkling&fontColor=ffffff" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" alt="Divider" />
 </div>
 
-## 🚀 About Me
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=About+Me+%F0%9F%9A%80;Passionate+Developer+%F0%9F%92%BB" alt="About Me" />
+</div>
+
+<div align="center">
 
 I'm a passionate developer who loves creating innovative solutions and exploring new technologies. This repository serves as my digital portfolio and a place where I share my projects, ideas, and learning journey.
 
-<div align="center">
-
-### 🌟 "Code is like humor. When you have to explain it, it's bad." - Cory House
-
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" alt="Divider" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
 </div>
-
-## 🛠️ Tech Stack & Skills
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Technologies+I+Work+With+%F0%9F%92%BB" alt="Tech Stack" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" alt="Divider" />
 </div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Tech+Stack+%26+Skills+%F0%9F%92%BB;Technologies+I+Work+With+%F0%9F%9A%80" alt="Tech Stack" />
+</div>
+
+<div align="center">
 
 ### 🎨 Frontend Technologies
-<div align="center">
-  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=000000)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white&labelColor=000000)
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000" alt="CSS3" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=000000" alt="Bootstrap" />
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white&labelColor=000000" alt="jQuery" />
 
 </div>
 
@@ -115,13 +122,43 @@ I'm a passionate developer who loves creating innovative solutions and exploring
 
 </div>
 
-## 🎯 Current Focus
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" alt="Divider" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Current+Focus+%F0%9F%9A%80;What+I'm+Working+On+%F0%9F%92%BB" alt="Current Focus" />
+</div>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎯 Current Focus
 
 - 🔭 **Currently working on:** Web development and mobile app projects
 - 🌱 **Currently learning:** Advanced JavaScript, Node.js, Android development, and Flutter
 - 👯 **Looking to collaborate on:** Web applications, mobile apps, and learning new technologies
 - 💬 **Ask me about:** HTML, CSS, JavaScript, PHP, Python, Android, Java, and mobile development
 - ⚡ **Fun fact:** I love creating both websites and mobile applications
+
+</td>
+<td width="50%">
+
+### 🏆 Achievements & Learning Journey
+
+- 🥇 **Web Development Enthusiast** - Passionate about creating amazing websites
+- 🏅 **Self-Taught Programmer** - Continuously learning and improving my skills
+- 🎖️ **Project Builder** - Creating real-world applications with modern technologies
+- 🏆 **Tech Explorer** - Always eager to learn new programming languages and frameworks
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ## 🏆 Achievements & Learning Journey
 
@@ -297,11 +334,11 @@ I'm a passionate developer who loves creating innovative solutions and exploring
 ### ⭐ Star this repository if you found it helpful!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%98%8A;Made+with+%E2%9D%A4%EF%B8%8F+by+Jithin+GK" alt="Footer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%F0%9F%98%8A;Made+with+%E2%9D%A4%EF%B8%8F+by+Jithin+GK;Keep+Coding+%F0%9F%92%BB" alt="Footer" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thank%20You!&fontSize=30&fontAlignY=40&animation=twinkling&fontColor=ffffff" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thank%20You!&fontSize=35&fontAlignY=40&animation=twinkling&fontColor=ffffff&desc=Keep+Building+Amazing+Things!&descAlignY=65&descAlign=center" alt="Footer" />
 </div>
 
 </div>
