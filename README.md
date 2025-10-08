@@ -126,6 +126,28 @@ I'm a passionate developer who loves creating innovative solutions and exploring
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" alt="Divider" />
 </div>
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=My+GitHub+Achievements+%F0%9F%8F%86;Trophies+and+Badges+%F0%9F%8F%86" alt="Trophies" />
+</div>
+
+<div align="center">
+
+![trophy](https://github-profile-trophy.vercel.app/?username=JithinGK51&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7)
+
+</div>
+
+<div align="center">
+
+![trophy](https://github-profile-trophy.vercel.app/?username=JithinGK51&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=7)
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" alt="Divider" />
+</div>
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Current+Focus+%F0%9F%9A%80;What+I'm+Working+On+%F0%9F%92%BB" alt="Current Focus" />
 </div>
