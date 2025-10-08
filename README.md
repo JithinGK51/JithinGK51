@@ -139,12 +139,6 @@ I'm a passionate developer who loves creating innovative solutions and exploring
 </div>
 
 <div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=JithinGK51&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=7)
-
-</div>
-
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" alt="Divider" />
 </div>
 
