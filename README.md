@@ -220,27 +220,9 @@ Biometric fingerprint-based employee attendance system with HTML frontend and ba
 <!--              GITHUB STATS  |  STREAK  |  TOP LANGS            -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!-- Row 1: Three summary stat cards -->
+<!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JithinGK51&theme=tokyonight" height="165" />
-  &nbsp;&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JithinGK51&theme=tokyonight" height="165" />
-  &nbsp;&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JithinGK51&theme=tokyonight" height="165" />
-</div>
-
-<br/>
-
-<!-- Row 2: Full profile details card (includes contribution streak bar) -->
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JithinGK51&theme=tokyonight" width="95%" />
-</div>
-
-<br/>
-
-<!-- Row 3: Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JithinGK51&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JithinGK51&theme=tokyo-night&hide_border=true&area=true&custom_title=Jithin%27s+Contribution+Graph" width="95%" />
 </div>
 
 ---
