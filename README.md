@@ -227,7 +227,9 @@ Biometric fingerprint-based employee attendance system with HTML frontend and ba
 
 #### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=JithinGK51&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0d1117&title_color=00d9ff&icon_color=6e40c9&text_color=c9d1d9&border_radius=8&custom_title=GitHub+Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=JithinGK51&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&custom_title=GitHub+Stats" width="100%" />
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=JithinGK51&theme=tokyonight&hide_border=true&layout=compact" width="100%" />
 
 </td>
 
@@ -235,7 +237,7 @@ Biometric fingerprint-based employee attendance system with HTML frontend and ba
 
 #### 🔥 GitHub Streak
 
-<img src="https://streak-stats.demolab.com?user=JithinGK51&theme=dark&hide_border=true&background=0d1117&ring=6e40c9&fire=00d9ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00d9ff&sideLabels=00d9ff&dates=888888&stroke=6e40c9&border_radius=8" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JithinGK51&theme=tokyonight&hide_border=true" width="100%" />
 
 Keep pushing forward! 🚀
 
@@ -245,7 +247,7 @@ Keep pushing forward! 🚀
 
 #### 🌐 Top Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JithinGK51&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=5&border_radius=8&custom_title=Top+Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JithinGK51&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=Top+Languages" width="100%" />
 
 More languages, more power! ⚡
 
