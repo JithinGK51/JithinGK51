@@ -1,360 +1,181 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Jithin+GK!+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Web+%26+Mobile+App+Developer+%F0%9F%92%BB;Passionate+about+Coding+%F0%9F%93%9A;Building+Amazing+Projects+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Jithin%20GK&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%7C%20Web%20%26%20Mobile%20Developer&descAlignY=55&descAlign=center&descSize=20" />
 </div>
+
+<br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome+to+my+Profile!&fontSize=40&fontAlignY=40&animation=twinkling&fontColor=ffffff&desc=Full+Stack+Developer&descAlignY=65&descAlign=center" alt="Header" />
+  <a href="https://github.com/JithinGK51">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Jithin+GK+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Web+%26+Mobile+App+Enthusiast+%F0%9F%92%BB;Always+Learning+%2C+Always+Building+%F0%9F%94%A5;Open+Source+Contributor+%E2%9C%A8" alt="Typing SVG" />
+  </a>
 </div>
 
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=JithinGK51&color=00D9FF&style=for-the-badge&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/JithinGK51?color=00D9FF&style=for-the-badge&label=Followers)
-![GitHub stars](https://img.shields.io/github/stars/JithinGK51?color=FFD700&style=for-the-badge&label=Stars)
-![GitHub forks](https://img.shields.io/github/forks/JithinGK51/JithinGK51?color=00FF88&style=for-the-badge&label=Forks)
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" alt="Divider" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=About+Me+%F0%9F%9A%80;Passionate+Developer+%F0%9F%92%BB" alt="About Me" />
-</div>
+<br/>
 
 <div align="center">
 
-I'm a passionate developer who loves creating innovative solutions and exploring new technologies. This repository serves as my digital portfolio and a place where I share my projects, ideas, and learning journey.
+[![Profile Views](https://komarev.com/ghpvc/?username=JithinGK51&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)](https://github.com/JithinGK51)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/JithinGK51?style=for-the-badge&color=58A6FF&label=FOLLOWERS&logo=github)](https://github.com/JithinGK51?tab=followers)
+&nbsp;
+[![GitHub Stars](https://img.shields.io/github/stars/JithinGK51?style=for-the-badge&color=FFD700&label=TOTAL+STARS&logo=github)](https://github.com/JithinGK51)
 
 </div>
+
+---
+
+## 🧑‍💻 About Me
+
+```yaml
+name: Jithin GK
+location: India 🇮🇳
+role: Full Stack Developer
+focus:
+  - Web Development (Frontend + Backend)
+  - Mobile App Development (Android / Flutter)
+  - Open Source Projects
+currently_learning:
+  - Advanced JavaScript & Node.js
+  - Flutter & Dart
+  - Cloud & DevOps Basics
+fun_fact: I turn caffeine ☕ into code 💻
+open_to: Collaborations, Freelance, Learning
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
+<div>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,react&theme=dark&perline=8" />
+</div>
+
+### ⚙️ Backend
+<div>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,python&theme=dark&perline=8" />
+</div>
+
+### 🗄️ Database
+<div>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&theme=dark&perline=8" />
+</div>
+
+### 📱 Mobile
+<div>
+  <img src="https://skillicons.dev/icons?i=androidstudio,java,kotlin,flutter,dart&theme=dark&perline=8" />
+</div>
+
+### 🧰 Tools & DevOps
+<div>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,figma&theme=dark&perline=8" />
+</div>
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=JithinGK51&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&custom_title=Jithin's+GitHub+Stats&bg_color=00000000" />
+    <img src="https://github-readme-stats.vercel.app/api?username=JithinGK51&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&custom_title=Jithin's+GitHub+Stats" />
+  </picture>
+  &nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JithinGK51&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=8&custom_title=Top+Languages&bg_color=00000000" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JithinGK51&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=8&custom_title=Top+Languages" />
+  </picture>
 </div>
+
+<br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" alt="Divider" />
+  <img src="https://streak-stats.demolab.com?user=JithinGK51&theme=github-dark-blue&hide_border=true&background=00000000&ring=58A6FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=888888" />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Tech+Stack+%26+Skills+%F0%9F%92%BB;Technologies+I+Work+With+%F0%9F%9A%80" alt="Tech Stack" />
-</div>
-
-<div align="center">
-
-### 🎨 Frontend Technologies
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000" alt="CSS3" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=000000" alt="Bootstrap" />
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white&labelColor=000000" alt="jQuery" />
-
-</div>
-
-### ⚙️ Backend Technologies
-<div align="center">
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&labelColor=000000)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=000000)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white&labelColor=000000)
-
-</div>
-
-### 🗄️ Databases
-<div align="center">
-
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=000000)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000000)
-
-</div>
-
-### 🛠️ Development Tools
-<div align="center">
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&labelColor=000000)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white&labelColor=000000)
-
-</div>
-
-### 📱 Mobile Development
-<div align="center">
-
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=000000)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&labelColor=000000)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=000000)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=000000)
-
-</div>
-
-### 🚀 Additional Skills
-<div align="center">
-
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white&labelColor=000000)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=rest&logoColor=white&labelColor=000000)
-![AJAX](https://img.shields.io/badge/AJAX-000000?style=for-the-badge&logo=ajax&logoColor=white&labelColor=000000)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=000000)
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" alt="Divider" />
-</div>
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=My+GitHub+Activity+%F0%9F%93%88" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JithinGK51&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&custom_title=Jithin%27s%20GitHub%20Stats)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JithinGK51&layout=compact&theme=radical&hide_border=true&custom_title=Most%20Used%20Languages)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JithinGK51&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakNum=00D9FF&sideNums=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=00D9FF)
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" alt="Divider" />
-</div>
+---
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=My+GitHub+Achievements+%F0%9F%8F%86;Trophies+and+Badges+%F0%9F%8F%86" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JithinGK51&theme=algolia&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
 </div>
 
+---
+
+## 📈 Contribution Activity
+
 <div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=JithinGK51&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JithinGK51&theme=github-compact&hide_border=true&bg_color=00000000&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF" />
 </div>
 
+---
+
+## 🐍 Contribution Snake
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" alt="Divider" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JithinGK51/JithinGK51/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JithinGK51/JithinGK51/output/github-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JithinGK51/JithinGK51/output/github-snake.svg" />
+  </picture>
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Current+Focus+%F0%9F%9A%80;What+I'm+Working+On+%F0%9F%92%BB" alt="Current Focus" />
-</div>
+> 💡 **Tip:** To enable the snake animation, add a GitHub Action workflow in your repository. [Learn how →](https://github.com/Platane/snk)
 
-<div align="center">
+---
 
-<table>
+## 🎯 Current Focus
+
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎯 Current Focus
-
-- 🔭 **Currently working on:** Web development and mobile app projects
-- 🌱 **Currently learning:** Advanced JavaScript, Node.js, Android development, and Flutter
-- 👯 **Looking to collaborate on:** Web applications, mobile apps, and learning new technologies
-- 💬 **Ask me about:** HTML, CSS, JavaScript, PHP, Python, Android, Java, and mobile development
-- ⚡ **Fun fact:** I love creating both websites and mobile applications
+### 🔭 What I'm up to
+- 🌐 Building full-stack web applications
+- 📱 Developing Android & Flutter apps
+- 🧠 Deepening my Node.js & backend skills
+- 🤝 Open to collaborate on exciting projects
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🏆 Achievements & Learning Journey
-
-- 🥇 **Web Development Enthusiast** - Passionate about creating amazing websites
-- 🏅 **Self-Taught Programmer** - Continuously learning and improving my skills
-- 🎖️ **Project Builder** - Creating real-world applications with modern technologies
-- 🏆 **Tech Explorer** - Always eager to learn new programming languages and frameworks
+### 🌱 Currently Learning
+- ⚡ Advanced JavaScript & ES6+
+- 🚀 Node.js & REST APIs
+- 📦 Flutter & Dart
+- ☁️ Cloud platforms & CI/CD basics
 
 </td>
 </tr>
 </table>
 
-</div>
-
-## 🏆 Achievements & Learning Journey
-
-- 🥇 **Web Development Enthusiast** - Passionate about creating amazing websites
-- 🏅 **Self-Taught Programmer** - Continuously learning and improving my skills
-- 🎖️ **Project Builder** - Creating real-world applications with modern technologies
-- 🏆 **Tech Explorer** - Always eager to learn new programming languages and frameworks
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" alt="Divider" />
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=My+GitHub+Activity+%F0%9F%93%88;Building+Projects+Every+Day+%F0%9F%9A%80;Learning+and+Growing+%F0%9F%93%9A" alt="Activity" />
-</div>
-
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JithinGK51&theme=radical&hide_border=true&stroke=00D9FF&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakNum=00D9FF&sideNums=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=00D9FF)
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" alt="Divider" />
-</div>
-
-## 🚀 My Projects & Learning
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=My+Projects+and+Learning+Journey+%F0%9F%9A%80;Building+Amazing+Applications+%F0%9F%92%BB" alt="Projects" />
-</div>
-
-<div align="center">
-
-### 🌐 Web Development Projects
-**Building websites and web applications**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-
-- ⭐ **Features:** Responsive design, interactive elements, clean UI
-- 🛠️ **Tech Stack:** HTML5, CSS3, JavaScript, PHP, MySQL
-- 🔗 **View:** [My GitHub Projects](https://github.com/JithinGK51)
-
-</div>
-
-<div align="center">
-
-### 📱 Mobile App Development
-**Creating Android applications and mobile solutions**
-
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-
-- ⭐ **Features:** Native Android apps, user-friendly interfaces, mobile optimization
-- 🛠️ **Tech Stack:** Java, Kotlin, Android Studio, Flutter
-- 🔗 **View:** [My Mobile Apps](https://github.com/JithinGK51)
-
-</div>
-
-<div align="center">
-
-### 🐍 Python Learning Projects
-**Exploring Python programming and automation**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-
-- ⭐ **Features:** Scripts, data processing, learning new concepts
-- 🛠️ **Tech Stack:** Python, basic libraries, file handling
-- 🔗 **View:** [My Python Projects](https://github.com/JithinGK51)
-
-</div>
-
-<div align="center">
-
-### 🎨 Frontend Development
-**Creating interactive and responsive web interfaces**
-
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
-
-- ⭐ **Features:** Modern CSS, JavaScript interactions, Bootstrap styling
-- 🛠️ **Tech Stack:** HTML, CSS, JavaScript, jQuery, Bootstrap
-- 🔗 **View:** [My Frontend Work](https://github.com/JithinGK51)
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" alt="Divider" />
-</div>
-
-## 📝 Learning & Resources
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=My+Learning+Resources+%F0%9F%93%9A;Always+Learning+New+Things+%F0%9F%9A%80" alt="Learning" />
-</div>
-
-<div align="center">
-
-### 🌐 Web Development Learning
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/JithinGK51)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/JithinGK51)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/JithinGK51)
-
-**My journey in web development** - Building responsive websites and interactive applications
-
-</div>
-
-<div align="center">
-
-### 📱 Mobile Development Learning
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/JithinGK51)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/JithinGK51)
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/JithinGK51)
-
-**Learning Android and Flutter** - Creating mobile applications for Android devices
-
-</div>
-
-<div align="center">
-
-### 🐍 Programming Languages
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/JithinGK51)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/JithinGK51)
-[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/JithinGK51)
-
-**Exploring programming concepts** - Learning new languages and frameworks
-
-</div>
+---
 
 ## 🤝 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jithingk51)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jithingk51)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jithingk51@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://jithingk51.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jithingk51)
+&nbsp;
+[![Twitter / X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/jithingk51)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jithingk51@gmail.com)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=todoist&logoColor=white)](https://jithingk51.dev)
 
-</div>
-
-## 💡 Quote of the Day
-
-<div align="center">
-
-> "The best way to predict the future is to create it." - Peter Drucker
-
-</div>
-
-## 🎉 Visitor Counter
-
-<div align="center">
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=JithinGK51.JithinGK51)
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" alt="Divider" />
 </div>
 
 ---
 
 <div align="center">
 
-### ⭐ Star this repository if you found it helpful!
+### 💬 Dev Quote
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%F0%9F%98%8A;Made+with+%E2%9D%A4%EF%B8%8F+by+Jithin+GK;Keep+Coding+%F0%9F%92%BB" alt="Footer" />
-</div>
+> *"First, solve the problem. Then, write the code."* — John Johnson
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thank%20You!&fontSize=35&fontAlignY=40&animation=twinkling&fontColor=ffffff&desc=Keep+Building+Amazing+Things!&descAlignY=65&descAlign=center" alt="Footer" />
-</div>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=twinkling&desc=Keep%20Building%20%F0%9F%9A%80&descAlign=center&descAlignY=75" />
 
 </div>
