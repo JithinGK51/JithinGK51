@@ -117,17 +117,33 @@ I have completed BCA and love building web, mobile and backend applications. Alw
 
 <td align="center" valign="top" width="20%">
 
-🌿
+⬇️
 
-**Agrivaan Owner App**
+**Shadow Downloader**
 
-Flutter app for farm machinery owners to manage orders, earnings, and navigation.
+Fast, multi-threaded audio downloader supporting multiple platforms with a clean CLI interface.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![CLI](https://img.shields.io/badge/CLI-000000?style=flat-square&logo=gnubash&logoColor=white)
+![Threads](https://img.shields.io/badge/Multithreaded-FF6B6B?style=flat-square&logo=speedtest&logoColor=white)
+
+[View Code →](https://github.com/JithinGK51/shadow-downloader) &nbsp; [![](https://img.shields.io/badge/⊙_repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JithinGK51/shadow-downloader)
+
+</td>
+
+<td align="center" valign="top" width="20%">
+
+🛒
+
+**Marchant App**
+
+Flutter-based merchant management app for handling store operations and product tracking.
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black)
-![Maps](https://img.shields.io/badge/Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Mobile](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
-[View Code →](https://github.com/JithinGK51) &nbsp; [![](https://img.shields.io/badge/⊙_repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JithinGK51)
+[View Code →](https://github.com/JithinGK51/marchant-app) &nbsp; [![](https://img.shields.io/badge/⊙_repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JithinGK51/marchant-app)
 
 </td>
 
@@ -135,63 +151,47 @@ Flutter app for farm machinery owners to manage orders, earnings, and navigation
 
 💬
 
-**MyHelp – Shortcut Chat**
+**MyHelp Application**
 
-Offline-first Flutter chat app with shortcuts and quick responses.
+Offline-first Flutter shortcut & help app with quick-access responses and local storage.
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-
-[View Code →](https://github.com/JithinGK51) &nbsp; [![](https://img.shields.io/badge/⊙_repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JithinGK51)
-
-</td>
-
-<td align="center" valign="top" width="20%">
-
-🌐
-
-**Portfolio Website**
-
-Personal portfolio built with Next.js, Tailwind CSS and Framer Motion.
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-[View Code →](https://github.com/JithinGK51) &nbsp; [![](https://img.shields.io/badge/⊙_repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JithinGK51)
-
-</td>
-
-<td align="center" valign="top" width="20%">
-
-📋
-
-**Complaint Management System**
-
-Full-stack complaint portal with role-based access and tracking.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black)
-
-[View Code →](https://github.com/JithinGK51) &nbsp; [![](https://img.shields.io/badge/⊙_repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JithinGK51)
-
-</td>
-
-<td align="center" valign="top" width="20%">
-
-🔐
-
-**Biometric Voting System**
-
-Secure voting system using biometric authentication and Flask backend.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 
-[View Code →](https://github.com/JithinGK51) &nbsp; [![](https://img.shields.io/badge/⊙_repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JithinGK51)
+[View Code →](https://github.com/JithinGK51/myhelp_application) &nbsp; [![](https://img.shields.io/badge/⊙_repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JithinGK51/myhelp_application)
+
+</td>
+
+<td align="center" valign="top" width="20%">
+
+🤖
+
+**Neural AI Studio**
+
+AI-powered creative studio built with JavaScript for generating and experimenting with neural outputs.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+[View Code →](https://github.com/JithinGK51/Neural-AI-Studio) &nbsp; [![](https://img.shields.io/badge/⊙_repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JithinGK51/Neural-AI-Studio)
+
+</td>
+
+<td align="center" valign="top" width="20%">
+
+👆
+
+**Employee Attendance (Fingerprint)**
+
+Biometric fingerprint-based employee attendance system with HTML frontend and backend tracking.
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Biometric](https://img.shields.io/badge/Biometric-6e40c9?style=flat-square&logo=fingerprint&logoColor=white)
+
+[View Code →](https://github.com/JithinGK51/employee-attendance-using-fingerprint) &nbsp; [![](https://img.shields.io/badge/⊙_repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JithinGK51/employee-attendance-using-fingerprint)
 
 </td>
 
