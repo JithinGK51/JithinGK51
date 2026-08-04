@@ -25,13 +25,13 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=46&pause=1000&color=00D9FF&vCenter=true&width=420&height=65&lines=jithingk51" alt="jithingk51" />
 
-<strong>Aspiring Software Developer | BCA Student</strong>
+<strong>Aspiring Software Developer | BCA Graduate</strong>
 
 <p>Passionate about building impactful, scalable and user-centric applications.<br/>Exploring new technologies and turning ideas into real-world solutions.</p>
 
 <br/>
 
-📍 Tumakuru, Karnataka, India &nbsp;&nbsp;&nbsp;&nbsp; ✉️ jithingk51@gmail.com<br/>
+📍 Tumakuru, Karnataka, India &nbsp;&nbsp;&nbsp;&nbsp; ✉️ jithingk831733@gmail.com<br/>
 🎂 Born in 2005 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔗 github.com/jithingk51
 
 </td>
@@ -57,7 +57,7 @@
 
 ### 👤 About Me
 
-I'm currently pursuing BCA and love building web, mobile and backend applications. Always curious to learn, collaborate and create something awesome.
+I have completed BCA and love building web, mobile and backend applications. Always curious to learn, collaborate and create something awesome.
 
 🌱 Currently learning Backend Development
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Node.js, Express, MongoDB)
@@ -123,11 +123,11 @@ I'm currently pursuing BCA and love building web, mobile and backend application
 
 Flutter app for farm machinery owners to manage orders, earnings, and navigation.
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=black)
-![Maps](https://img.shields.io/badge/Maps-4285F4?style=flat&logo=googlemaps&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black)
+![Maps](https://img.shields.io/badge/Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
 
-[View Code →](https://github.com/JithinGK51) &nbsp; [![](https://img.shields.io/badge/-repo-181717?style=flat&logo=github)](https://github.com/JithinGK51)
+[View Code →](https://github.com/JithinGK51) &nbsp; [![](https://img.shields.io/badge/⊙_repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JithinGK51)
 
 </td>
 
@@ -139,11 +139,11 @@ Flutter app for farm machinery owners to manage orders, earnings, and navigation
 
 Offline-first Flutter chat app with shortcuts and quick responses.
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-[View Code →](https://github.com/JithinGK51) &nbsp; [![](https://img.shields.io/badge/-repo-181717?style=flat&logo=github)](https://github.com/JithinGK51)
+[View Code →](https://github.com/JithinGK51) &nbsp; [![](https://img.shields.io/badge/⊙_repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JithinGK51)
 
 </td>
 
@@ -155,11 +155,11 @@ Offline-first Flutter chat app with shortcuts and quick responses.
 
 Personal portfolio built with Next.js, Tailwind CSS and Framer Motion.
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
-![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-[View Code →](https://github.com/JithinGK51) &nbsp; [![](https://img.shields.io/badge/-repo-181717?style=flat&logo=github)](https://github.com/JithinGK51)
+[View Code →](https://github.com/JithinGK51) &nbsp; [![](https://img.shields.io/badge/⊙_repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JithinGK51)
 
 </td>
 
@@ -171,11 +171,11 @@ Personal portfolio built with Next.js, Tailwind CSS and Framer Motion.
 
 Full-stack complaint portal with role-based access and tracking.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black)
 
-[View Code →](https://github.com/JithinGK51) &nbsp; [![](https://img.shields.io/badge/-repo-181717?style=flat&logo=github)](https://github.com/JithinGK51)
+[View Code →](https://github.com/JithinGK51) &nbsp; [![](https://img.shields.io/badge/⊙_repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JithinGK51)
 
 </td>
 
@@ -187,11 +187,11 @@ Full-stack complaint portal with role-based access and tracking.
 
 Secure voting system using biometric authentication and Flask backend.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 
-[View Code →](https://github.com/JithinGK51) &nbsp; [![](https://img.shields.io/badge/-repo-181717?style=flat&logo=github)](https://github.com/JithinGK51)
+[View Code →](https://github.com/JithinGK51) &nbsp; [![](https://img.shields.io/badge/⊙_repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JithinGK51)
 
 </td>
 
@@ -259,11 +259,11 @@ More languages, more power! ⚡
 
 [![GitHub](https://img.shields.io/badge/GitHub-/jithingk51-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JithinGK51)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-/in/jithingk51-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jithingk51)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-/in/jithin--gk-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jithin-gk-19671b2a7)
 
-[![Instagram](https://img.shields.io/badge/Instagram-/jithingk51-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jithingk51)
+[![Instagram](https://img.shields.io/badge/Instagram-/jithin__gk__wb-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jithin_gk_wb)
 
-[![Email](https://img.shields.io/badge/Email-jithingk51@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jithingk51@gmail.com)
+[![Email](https://img.shields.io/badge/Email-jithingk831733@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jithingk831733@gmail.com)
 
 </td>
 
@@ -275,7 +275,7 @@ I'm open to exciting opportunities, collaborations and new ideas. Let's build so
 
 <br/>
 
-[![✉️ Reach Out](https://img.shields.io/badge/✉️_Reach_Out-6e40c9?style=for-the-badge&logoColor=white)](mailto:jithingk51@gmail.com)
+[![✉️ Reach Out](https://img.shields.io/badge/✉️_Reach_Out-6e40c9?style=for-the-badge&logoColor=white)](mailto:jithingk831733@gmail.com)
 
 </td>
 
