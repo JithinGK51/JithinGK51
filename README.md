@@ -220,41 +220,26 @@ Biometric fingerprint-based employee attendance system with HTML frontend and ba
 <!--              GITHUB STATS  |  STREAK  |  TOP LANGS            -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<table width="100%">
-<tr>
+<!-- Row 1: Stats + Streak side by side -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JithinGK51&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&custom_title=GitHub+Stats" height="180" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JithinGK51&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=Top+Languages" height="180" />
+</div>
 
-<td width="33%" align="center" valign="top">
+<br/>
 
-#### 📊 GitHub Stats
+<!-- Row 2: Streak full width -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=JithinGK51&theme=tokyonight&hide_border=true" height="180" />
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=JithinGK51&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&custom_title=GitHub+Stats" width="100%" />
+<br/>
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=JithinGK51&theme=tokyonight&hide_border=true&layout=compact" width="100%" />
-
-</td>
-
-<td width="33%" align="center" valign="top">
-
-#### 🔥 GitHub Streak
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JithinGK51&theme=tokyonight&hide_border=true" width="100%" />
-
-Keep pushing forward! 🚀
-
-</td>
-
-<td width="33%" align="center" valign="top">
-
-#### 🌐 Top Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JithinGK51&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=Top+Languages" width="100%" />
-
-More languages, more power! ⚡
-
-</td>
-
-</tr>
-</table>
+<!-- Row 3: Activity Graph full width -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JithinGK51&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+</div>
 
 ---
 
