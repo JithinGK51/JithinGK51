@@ -31,8 +31,18 @@
 
 <br/>
 
-📍 Tumakuru, Karnataka, India &nbsp;&nbsp;&nbsp;&nbsp; ✉️ jithingk831733@gmail.com<br/>
-🎂 Born in 2005 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔗 github.com/jithingk51
+<table border="0" cellspacing="0" cellpadding="4">
+<tr>
+<td>📍 Tumakuru, Karnataka, India</td>
+<td>&nbsp;&nbsp;&nbsp;</td>
+<td>📧 <a href="mailto:jithingk831733@gmail.com">jithingk831733@gmail.com</a></td>
+</tr>
+<tr>
+<td>🎂 Born in 2005</td>
+<td>&nbsp;&nbsp;&nbsp;</td>
+<td>🔗 <a href="https://github.com/JithinGK51">github.com/jithingk51</a></td>
+</tr>
+</table>
 
 </td>
 <td width="235" align="center" valign="middle">
